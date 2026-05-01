@@ -21,6 +21,5 @@ body {
   border: 3px solid brown;
   width: 200px;
   padding: 32px;
-  /* body max-width minus 2 x (padding + border) */
-  margin-left: 330px; 
+  margin-left: auto; 
 }
